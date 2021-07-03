@@ -1,1 +1,3 @@
 # flappybird
+
+![Image](./image.png)
